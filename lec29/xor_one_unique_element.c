@@ -6,5 +6,5 @@ int main()
     for(int i=0;i<5;i++){
         xor=xor^a[i]; //^ xor operator
     }
-    printf("%d",xor);
+    printf("%d ",xor);
 }
